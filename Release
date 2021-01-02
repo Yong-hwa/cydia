@@ -1,8 +1,8 @@
-Origin: Yong Origin
-Label: Yong Label
+Origin: Yong Repo
+Label: Yong's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Yong Description
+Description: Yong's Cydia Repository

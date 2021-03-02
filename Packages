@@ -1,0 +1,11 @@
+Package: com.yong.exampletweak
+Section: Tweaks
+Maintainer: Yong
+Architecture: iphoneos-arm
+Version: 0.0.1
+Depends: mobilesubstrate
+Filename: debs//
+Description: Example Tweak
+Depiction: https://yong-hwa.github.io/cydia?p=com.yong.exampletweak
+Name: ExampleTweak
+Author: Yong <example@email.com>
